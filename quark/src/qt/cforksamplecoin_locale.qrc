@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/cforksamplecoin_bg.qm</file>
+        <file alias="ca">locale/cforksamplecoin_ca.qm</file>
+        <file alias="cs">locale/cforksamplecoin_cs.qm</file>
+        <file alias="da">locale/cforksamplecoin_da.qm</file>
+        <file alias="de">locale/cforksamplecoin_de.qm</file>
+        <file alias="en">locale/cforksamplecoin_en.qm</file>
+        <file alias="en_US">locale/cforksamplecoin_en_US.qm</file>
+        <file alias="es">locale/cforksamplecoin_es.qm</file>
+        <file alias="fi">locale/cforksamplecoin_fi.qm</file>
+        <file alias="fr_FR">locale/cforksamplecoin_fr_FR.qm</file>
+        <file alias="it">locale/cforksamplecoin_it.qm</file>
+        <file alias="ja">locale/cforksamplecoin_ja.qm</file>
+        <file alias="ko_KR">locale/cforksamplecoin_ko_KR.qm</file>
+        <file alias="nl">locale/cforksamplecoin_nl.qm</file>
+        <file alias="pl">locale/cforksamplecoin_pl.qm</file>
+        <file alias="pt">locale/cforksamplecoin_pt.qm</file>
+        <file alias="pt_BR">locale/cforksamplecoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/cforksamplecoin_ro_RO.qm</file>
+        <file alias="ru">locale/cforksamplecoin_ru.qm</file>
+        <file alias="sk">locale/cforksamplecoin_sk.qm</file>
+        <file alias="sv">locale/cforksamplecoin_sv.qm</file>
+        <file alias="uk">locale/cforksamplecoin_uk.qm</file>
+        <file alias="zh_CN">locale/cforksamplecoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/cforksamplecoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

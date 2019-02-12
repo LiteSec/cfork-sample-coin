@@ -1,0 +1,2 @@
+Cforksamplecoin repository
+======================================
